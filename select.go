@@ -8,6 +8,8 @@ import (
 	"text/tabwriter"
 	"text/template"
 
+	"github.com/1lann/promptui/list"
+	"github.com/1lann/promptui/screenbuf"
 	"github.com/chzyer/readline"
 	"github.com/manifoldco/promptui/list"
 	"github.com/manifoldco/promptui/screenbuf"
